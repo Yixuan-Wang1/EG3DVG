@@ -35,9 +35,16 @@ export CUDA_VISIBLE_DEVICES="${GPUS}"
 export TOKENIZERS_PARALLELISM=false
 export OMP_NUM_THREADS="${OMP_NUM_THREADS:-4}"
 
-torchrun --standalone --nnodes=1 \
-  --nproc-per-node="${NPROC_PER_NODE}" --master-port="${MASTER_PORT}" \
-  train_dist_mod.py \
+if command -v torchrun >/dev/null 2>&1; then
+  LAUNCHER=(torchrun --standalone --nnodes=1
+    --nproc-per-node="${NPROC_PER_NODE}" --master-port="${MASTER_PORT}")
+else
+  echo "torchrun not found; using torch.distributed.launch" >&2
+  LAUNCHER=(python -m torch.distributed.launch
+    --nproc_per_node="${NPROC_PER_NODE}" --master_port="${MASTER_PORT}")
+fi
+
+"${LAUNCHER[@]}" train_dist_mod.py \
   --custom_data_root "${DATA_ROOT}" \
   --custom_split_root "${SPLIT_ROOT}" \
   --custom_manifest_root "${MANIFEST_ROOT}" \

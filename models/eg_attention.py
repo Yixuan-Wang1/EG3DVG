@@ -7,7 +7,12 @@ from torch import Tensor
 from torch.nn.init import constant_, xavier_normal_, xavier_uniform_
 from torch.nn.parameter import Parameter
 from torch.nn import Module
-from torch.nn.modules.linear import NonDynamicallyQuantizableLinear
+try:
+    from torch.nn.modules.linear import NonDynamicallyQuantizableLinear
+except ImportError:
+    # Compatibility for PyTorch releases predating this marker class.  It is a
+    # regular Linear layer whose only special behavior concerns quantization.
+    from torch.nn import Linear as NonDynamicallyQuantizableLinear
 from torch.nn import functional as F
 from torch.nn.functional import _in_projection_packed,linear,pad
 from torch.overrides import (
