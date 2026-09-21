@@ -71,6 +71,15 @@ def parse_option():
                         nargs='+', help='list of datasets to train on')
     parser.add_argument('--test_dataset', default='scanrefer')
     parser.add_argument('--data_root', default='./')
+    parser.add_argument('--custom_data_root', default=None,
+                        help='Root containing per-source canonical placement data')
+    parser.add_argument('--custom_split_root', default='splits',
+                        help='Directory containing train/valid/test.json')
+    parser.add_argument('--custom_manifest_root', default='dataset_info',
+                        help='Directory containing per-source manifest.json files')
+    parser.add_argument('--num_points', type=int, default=50000)
+    parser.add_argument('--superpoint_voxel_size', type=float, default=0.03,
+                        help='Superpoint voxel size in metres for custom data')
     parser.add_argument('--use_height', action='store_true',
                         help='Use height signal in input.')
     parser.add_argument('--use_color', action='store_true',

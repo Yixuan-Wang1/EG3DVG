@@ -1,0 +1,2905 @@
+{
+  "schema_version": "canonical_placement_manifest/v1",
+  "dataset": "hope",
+  "sample_count": 413,
+  "unit": "cm",
+  "samples": [
+    {
+      "sample_id": "hope__scene_0000__0000",
+      "scene_id": "scene_0000",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0000__0000.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0005",
+      "scene_id": "scene_0000",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0000__0005.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0010",
+      "scene_id": "scene_0000",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0000__0010.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0015",
+      "scene_id": "scene_0000",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0000__0015.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0020",
+      "scene_id": "scene_0000",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0000__0020.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0025",
+      "scene_id": "scene_0000",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0000__0025.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0030",
+      "scene_id": "scene_0000",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0000__0030.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0035",
+      "scene_id": "scene_0000",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0000__0035.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0040",
+      "scene_id": "scene_0000",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0000__0040.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0045",
+      "scene_id": "scene_0000",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0000__0045.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0050",
+      "scene_id": "scene_0000",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0000__0050.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0055",
+      "scene_id": "scene_0000",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0000__0055.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0060",
+      "scene_id": "scene_0000",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0000__0060.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0065",
+      "scene_id": "scene_0000",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0000__0065.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0070",
+      "scene_id": "scene_0000",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0000__0070.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0075",
+      "scene_id": "scene_0000",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0000__0075.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0080",
+      "scene_id": "scene_0000",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0000__0080.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0085",
+      "scene_id": "scene_0000",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0000__0085.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0090",
+      "scene_id": "scene_0000",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0000__0090.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0095",
+      "scene_id": "scene_0000",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0000__0095.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0100",
+      "scene_id": "scene_0000",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0000__0100.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0105",
+      "scene_id": "scene_0000",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0000__0105.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0110",
+      "scene_id": "scene_0000",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0000__0110.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0115",
+      "scene_id": "scene_0000",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0000__0115.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0120",
+      "scene_id": "scene_0000",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0000__0120.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0125",
+      "scene_id": "scene_0000",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0000__0125.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0130",
+      "scene_id": "scene_0000",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0000__0130.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0135",
+      "scene_id": "scene_0000",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0000__0135.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0140",
+      "scene_id": "scene_0000",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0000__0140.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0145",
+      "scene_id": "scene_0000",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0000__0145.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0150",
+      "scene_id": "scene_0000",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0000__0150.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0155",
+      "scene_id": "scene_0000",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0000__0155.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0160",
+      "scene_id": "scene_0000",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0000__0160.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0165",
+      "scene_id": "scene_0000",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0000__0165.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0170",
+      "scene_id": "scene_0000",
+      "frame_id": "0170",
+      "sample_path": "samples/hope__scene_0000__0170.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0175",
+      "scene_id": "scene_0000",
+      "frame_id": "0175",
+      "sample_path": "samples/hope__scene_0000__0175.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0180",
+      "scene_id": "scene_0000",
+      "frame_id": "0180",
+      "sample_path": "samples/hope__scene_0000__0180.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0185",
+      "scene_id": "scene_0000",
+      "frame_id": "0185",
+      "sample_path": "samples/hope__scene_0000__0185.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0190",
+      "scene_id": "scene_0000",
+      "frame_id": "0190",
+      "sample_path": "samples/hope__scene_0000__0190.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0195",
+      "scene_id": "scene_0000",
+      "frame_id": "0195",
+      "sample_path": "samples/hope__scene_0000__0195.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0200",
+      "scene_id": "scene_0000",
+      "frame_id": "0200",
+      "sample_path": "samples/hope__scene_0000__0200.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0205",
+      "scene_id": "scene_0000",
+      "frame_id": "0205",
+      "sample_path": "samples/hope__scene_0000__0205.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0210",
+      "scene_id": "scene_0000",
+      "frame_id": "0210",
+      "sample_path": "samples/hope__scene_0000__0210.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0215",
+      "scene_id": "scene_0000",
+      "frame_id": "0215",
+      "sample_path": "samples/hope__scene_0000__0215.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0220",
+      "scene_id": "scene_0000",
+      "frame_id": "0220",
+      "sample_path": "samples/hope__scene_0000__0220.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0225",
+      "scene_id": "scene_0000",
+      "frame_id": "0225",
+      "sample_path": "samples/hope__scene_0000__0225.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0230",
+      "scene_id": "scene_0000",
+      "frame_id": "0230",
+      "sample_path": "samples/hope__scene_0000__0230.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0235",
+      "scene_id": "scene_0000",
+      "frame_id": "0235",
+      "sample_path": "samples/hope__scene_0000__0235.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0240",
+      "scene_id": "scene_0000",
+      "frame_id": "0240",
+      "sample_path": "samples/hope__scene_0000__0240.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0245",
+      "scene_id": "scene_0000",
+      "frame_id": "0245",
+      "sample_path": "samples/hope__scene_0000__0245.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0250",
+      "scene_id": "scene_0000",
+      "frame_id": "0250",
+      "sample_path": "samples/hope__scene_0000__0250.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0255",
+      "scene_id": "scene_0000",
+      "frame_id": "0255",
+      "sample_path": "samples/hope__scene_0000__0255.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0260",
+      "scene_id": "scene_0000",
+      "frame_id": "0260",
+      "sample_path": "samples/hope__scene_0000__0260.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0265",
+      "scene_id": "scene_0000",
+      "frame_id": "0265",
+      "sample_path": "samples/hope__scene_0000__0265.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0270",
+      "scene_id": "scene_0000",
+      "frame_id": "0270",
+      "sample_path": "samples/hope__scene_0000__0270.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0275",
+      "scene_id": "scene_0000",
+      "frame_id": "0275",
+      "sample_path": "samples/hope__scene_0000__0275.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0280",
+      "scene_id": "scene_0000",
+      "frame_id": "0280",
+      "sample_path": "samples/hope__scene_0000__0280.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0285",
+      "scene_id": "scene_0000",
+      "frame_id": "0285",
+      "sample_path": "samples/hope__scene_0000__0285.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0290",
+      "scene_id": "scene_0000",
+      "frame_id": "0290",
+      "sample_path": "samples/hope__scene_0000__0290.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0295",
+      "scene_id": "scene_0000",
+      "frame_id": "0295",
+      "sample_path": "samples/hope__scene_0000__0295.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0300",
+      "scene_id": "scene_0000",
+      "frame_id": "0300",
+      "sample_path": "samples/hope__scene_0000__0300.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0305",
+      "scene_id": "scene_0000",
+      "frame_id": "0305",
+      "sample_path": "samples/hope__scene_0000__0305.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0310",
+      "scene_id": "scene_0000",
+      "frame_id": "0310",
+      "sample_path": "samples/hope__scene_0000__0310.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0315",
+      "scene_id": "scene_0000",
+      "frame_id": "0315",
+      "sample_path": "samples/hope__scene_0000__0315.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0320",
+      "scene_id": "scene_0000",
+      "frame_id": "0320",
+      "sample_path": "samples/hope__scene_0000__0320.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0325",
+      "scene_id": "scene_0000",
+      "frame_id": "0325",
+      "sample_path": "samples/hope__scene_0000__0325.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0330",
+      "scene_id": "scene_0000",
+      "frame_id": "0330",
+      "sample_path": "samples/hope__scene_0000__0330.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0335",
+      "scene_id": "scene_0000",
+      "frame_id": "0335",
+      "sample_path": "samples/hope__scene_0000__0335.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0340",
+      "scene_id": "scene_0000",
+      "frame_id": "0340",
+      "sample_path": "samples/hope__scene_0000__0340.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0345",
+      "scene_id": "scene_0000",
+      "frame_id": "0345",
+      "sample_path": "samples/hope__scene_0000__0345.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0350",
+      "scene_id": "scene_0000",
+      "frame_id": "0350",
+      "sample_path": "samples/hope__scene_0000__0350.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0355",
+      "scene_id": "scene_0000",
+      "frame_id": "0355",
+      "sample_path": "samples/hope__scene_0000__0355.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0000__0360",
+      "scene_id": "scene_0000",
+      "frame_id": "0360",
+      "sample_path": "samples/hope__scene_0000__0360.json",
+      "object_count": 10
+    },
+    {
+      "sample_id": "hope__scene_0001__0000",
+      "scene_id": "scene_0001",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0001__0000.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0005",
+      "scene_id": "scene_0001",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0001__0005.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0010",
+      "scene_id": "scene_0001",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0001__0010.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0015",
+      "scene_id": "scene_0001",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0001__0015.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0020",
+      "scene_id": "scene_0001",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0001__0020.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0025",
+      "scene_id": "scene_0001",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0001__0025.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0030",
+      "scene_id": "scene_0001",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0001__0030.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0035",
+      "scene_id": "scene_0001",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0001__0035.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0040",
+      "scene_id": "scene_0001",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0001__0040.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0045",
+      "scene_id": "scene_0001",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0001__0045.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0050",
+      "scene_id": "scene_0001",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0001__0050.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0055",
+      "scene_id": "scene_0001",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0001__0055.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0060",
+      "scene_id": "scene_0001",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0001__0060.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0065",
+      "scene_id": "scene_0001",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0001__0065.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0070",
+      "scene_id": "scene_0001",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0001__0070.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0075",
+      "scene_id": "scene_0001",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0001__0075.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0080",
+      "scene_id": "scene_0001",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0001__0080.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0085",
+      "scene_id": "scene_0001",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0001__0085.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0090",
+      "scene_id": "scene_0001",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0001__0090.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0095",
+      "scene_id": "scene_0001",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0001__0095.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0100",
+      "scene_id": "scene_0001",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0001__0100.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0105",
+      "scene_id": "scene_0001",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0001__0105.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0110",
+      "scene_id": "scene_0001",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0001__0110.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0115",
+      "scene_id": "scene_0001",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0001__0115.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0120",
+      "scene_id": "scene_0001",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0001__0120.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0125",
+      "scene_id": "scene_0001",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0001__0125.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0130",
+      "scene_id": "scene_0001",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0001__0130.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0135",
+      "scene_id": "scene_0001",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0001__0135.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0140",
+      "scene_id": "scene_0001",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0001__0140.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0145",
+      "scene_id": "scene_0001",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0001__0145.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0150",
+      "scene_id": "scene_0001",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0001__0150.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0155",
+      "scene_id": "scene_0001",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0001__0155.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0160",
+      "scene_id": "scene_0001",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0001__0160.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0165",
+      "scene_id": "scene_0001",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0001__0165.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0170",
+      "scene_id": "scene_0001",
+      "frame_id": "0170",
+      "sample_path": "samples/hope__scene_0001__0170.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0175",
+      "scene_id": "scene_0001",
+      "frame_id": "0175",
+      "sample_path": "samples/hope__scene_0001__0175.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0180",
+      "scene_id": "scene_0001",
+      "frame_id": "0180",
+      "sample_path": "samples/hope__scene_0001__0180.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0185",
+      "scene_id": "scene_0001",
+      "frame_id": "0185",
+      "sample_path": "samples/hope__scene_0001__0185.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0190",
+      "scene_id": "scene_0001",
+      "frame_id": "0190",
+      "sample_path": "samples/hope__scene_0001__0190.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0195",
+      "scene_id": "scene_0001",
+      "frame_id": "0195",
+      "sample_path": "samples/hope__scene_0001__0195.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0200",
+      "scene_id": "scene_0001",
+      "frame_id": "0200",
+      "sample_path": "samples/hope__scene_0001__0200.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0205",
+      "scene_id": "scene_0001",
+      "frame_id": "0205",
+      "sample_path": "samples/hope__scene_0001__0205.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0210",
+      "scene_id": "scene_0001",
+      "frame_id": "0210",
+      "sample_path": "samples/hope__scene_0001__0210.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0215",
+      "scene_id": "scene_0001",
+      "frame_id": "0215",
+      "sample_path": "samples/hope__scene_0001__0215.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0220",
+      "scene_id": "scene_0001",
+      "frame_id": "0220",
+      "sample_path": "samples/hope__scene_0001__0220.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0225",
+      "scene_id": "scene_0001",
+      "frame_id": "0225",
+      "sample_path": "samples/hope__scene_0001__0225.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0230",
+      "scene_id": "scene_0001",
+      "frame_id": "0230",
+      "sample_path": "samples/hope__scene_0001__0230.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0235",
+      "scene_id": "scene_0001",
+      "frame_id": "0235",
+      "sample_path": "samples/hope__scene_0001__0235.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0240",
+      "scene_id": "scene_0001",
+      "frame_id": "0240",
+      "sample_path": "samples/hope__scene_0001__0240.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0245",
+      "scene_id": "scene_0001",
+      "frame_id": "0245",
+      "sample_path": "samples/hope__scene_0001__0245.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0250",
+      "scene_id": "scene_0001",
+      "frame_id": "0250",
+      "sample_path": "samples/hope__scene_0001__0250.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0255",
+      "scene_id": "scene_0001",
+      "frame_id": "0255",
+      "sample_path": "samples/hope__scene_0001__0255.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0260",
+      "scene_id": "scene_0001",
+      "frame_id": "0260",
+      "sample_path": "samples/hope__scene_0001__0260.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0265",
+      "scene_id": "scene_0001",
+      "frame_id": "0265",
+      "sample_path": "samples/hope__scene_0001__0265.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0270",
+      "scene_id": "scene_0001",
+      "frame_id": "0270",
+      "sample_path": "samples/hope__scene_0001__0270.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0275",
+      "scene_id": "scene_0001",
+      "frame_id": "0275",
+      "sample_path": "samples/hope__scene_0001__0275.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0280",
+      "scene_id": "scene_0001",
+      "frame_id": "0280",
+      "sample_path": "samples/hope__scene_0001__0280.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0285",
+      "scene_id": "scene_0001",
+      "frame_id": "0285",
+      "sample_path": "samples/hope__scene_0001__0285.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0290",
+      "scene_id": "scene_0001",
+      "frame_id": "0290",
+      "sample_path": "samples/hope__scene_0001__0290.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0295",
+      "scene_id": "scene_0001",
+      "frame_id": "0295",
+      "sample_path": "samples/hope__scene_0001__0295.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0300",
+      "scene_id": "scene_0001",
+      "frame_id": "0300",
+      "sample_path": "samples/hope__scene_0001__0300.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0305",
+      "scene_id": "scene_0001",
+      "frame_id": "0305",
+      "sample_path": "samples/hope__scene_0001__0305.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0310",
+      "scene_id": "scene_0001",
+      "frame_id": "0310",
+      "sample_path": "samples/hope__scene_0001__0310.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0315",
+      "scene_id": "scene_0001",
+      "frame_id": "0315",
+      "sample_path": "samples/hope__scene_0001__0315.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0320",
+      "scene_id": "scene_0001",
+      "frame_id": "0320",
+      "sample_path": "samples/hope__scene_0001__0320.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0325",
+      "scene_id": "scene_0001",
+      "frame_id": "0325",
+      "sample_path": "samples/hope__scene_0001__0325.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0001__0330",
+      "scene_id": "scene_0001",
+      "frame_id": "0330",
+      "sample_path": "samples/hope__scene_0001__0330.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0000",
+      "scene_id": "scene_0002",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0002__0000.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0005",
+      "scene_id": "scene_0002",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0002__0005.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0010",
+      "scene_id": "scene_0002",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0002__0010.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0015",
+      "scene_id": "scene_0002",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0002__0015.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0020",
+      "scene_id": "scene_0002",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0002__0020.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0025",
+      "scene_id": "scene_0002",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0002__0025.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0030",
+      "scene_id": "scene_0002",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0002__0030.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0035",
+      "scene_id": "scene_0002",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0002__0035.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0040",
+      "scene_id": "scene_0002",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0002__0040.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0045",
+      "scene_id": "scene_0002",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0002__0045.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0050",
+      "scene_id": "scene_0002",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0002__0050.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0055",
+      "scene_id": "scene_0002",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0002__0055.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0060",
+      "scene_id": "scene_0002",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0002__0060.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0065",
+      "scene_id": "scene_0002",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0002__0065.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0070",
+      "scene_id": "scene_0002",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0002__0070.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0075",
+      "scene_id": "scene_0002",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0002__0075.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0080",
+      "scene_id": "scene_0002",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0002__0080.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0085",
+      "scene_id": "scene_0002",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0002__0085.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0090",
+      "scene_id": "scene_0002",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0002__0090.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0095",
+      "scene_id": "scene_0002",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0002__0095.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0100",
+      "scene_id": "scene_0002",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0002__0100.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0105",
+      "scene_id": "scene_0002",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0002__0105.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0110",
+      "scene_id": "scene_0002",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0002__0110.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0115",
+      "scene_id": "scene_0002",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0002__0115.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0120",
+      "scene_id": "scene_0002",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0002__0120.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0125",
+      "scene_id": "scene_0002",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0002__0125.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0130",
+      "scene_id": "scene_0002",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0002__0130.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0135",
+      "scene_id": "scene_0002",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0002__0135.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0140",
+      "scene_id": "scene_0002",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0002__0140.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0145",
+      "scene_id": "scene_0002",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0002__0145.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0150",
+      "scene_id": "scene_0002",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0002__0150.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0155",
+      "scene_id": "scene_0002",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0002__0155.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0160",
+      "scene_id": "scene_0002",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0002__0160.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0165",
+      "scene_id": "scene_0002",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0002__0165.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0170",
+      "scene_id": "scene_0002",
+      "frame_id": "0170",
+      "sample_path": "samples/hope__scene_0002__0170.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0175",
+      "scene_id": "scene_0002",
+      "frame_id": "0175",
+      "sample_path": "samples/hope__scene_0002__0175.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0180",
+      "scene_id": "scene_0002",
+      "frame_id": "0180",
+      "sample_path": "samples/hope__scene_0002__0180.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0185",
+      "scene_id": "scene_0002",
+      "frame_id": "0185",
+      "sample_path": "samples/hope__scene_0002__0185.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0190",
+      "scene_id": "scene_0002",
+      "frame_id": "0190",
+      "sample_path": "samples/hope__scene_0002__0190.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0195",
+      "scene_id": "scene_0002",
+      "frame_id": "0195",
+      "sample_path": "samples/hope__scene_0002__0195.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0200",
+      "scene_id": "scene_0002",
+      "frame_id": "0200",
+      "sample_path": "samples/hope__scene_0002__0200.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0205",
+      "scene_id": "scene_0002",
+      "frame_id": "0205",
+      "sample_path": "samples/hope__scene_0002__0205.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0210",
+      "scene_id": "scene_0002",
+      "frame_id": "0210",
+      "sample_path": "samples/hope__scene_0002__0210.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0215",
+      "scene_id": "scene_0002",
+      "frame_id": "0215",
+      "sample_path": "samples/hope__scene_0002__0215.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0220",
+      "scene_id": "scene_0002",
+      "frame_id": "0220",
+      "sample_path": "samples/hope__scene_0002__0220.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0225",
+      "scene_id": "scene_0002",
+      "frame_id": "0225",
+      "sample_path": "samples/hope__scene_0002__0225.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0230",
+      "scene_id": "scene_0002",
+      "frame_id": "0230",
+      "sample_path": "samples/hope__scene_0002__0230.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0235",
+      "scene_id": "scene_0002",
+      "frame_id": "0235",
+      "sample_path": "samples/hope__scene_0002__0235.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0240",
+      "scene_id": "scene_0002",
+      "frame_id": "0240",
+      "sample_path": "samples/hope__scene_0002__0240.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0245",
+      "scene_id": "scene_0002",
+      "frame_id": "0245",
+      "sample_path": "samples/hope__scene_0002__0245.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0250",
+      "scene_id": "scene_0002",
+      "frame_id": "0250",
+      "sample_path": "samples/hope__scene_0002__0250.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0255",
+      "scene_id": "scene_0002",
+      "frame_id": "0255",
+      "sample_path": "samples/hope__scene_0002__0255.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0260",
+      "scene_id": "scene_0002",
+      "frame_id": "0260",
+      "sample_path": "samples/hope__scene_0002__0260.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0265",
+      "scene_id": "scene_0002",
+      "frame_id": "0265",
+      "sample_path": "samples/hope__scene_0002__0265.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0002__0270",
+      "scene_id": "scene_0002",
+      "frame_id": "0270",
+      "sample_path": "samples/hope__scene_0002__0270.json",
+      "object_count": 20
+    },
+    {
+      "sample_id": "hope__scene_0003__0000",
+      "scene_id": "scene_0003",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0003__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0005",
+      "scene_id": "scene_0003",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0003__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0010",
+      "scene_id": "scene_0003",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0003__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0015",
+      "scene_id": "scene_0003",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0003__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0020",
+      "scene_id": "scene_0003",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0003__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0025",
+      "scene_id": "scene_0003",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0003__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0030",
+      "scene_id": "scene_0003",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0003__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0035",
+      "scene_id": "scene_0003",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0003__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0040",
+      "scene_id": "scene_0003",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0003__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0045",
+      "scene_id": "scene_0003",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0003__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0050",
+      "scene_id": "scene_0003",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0003__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0055",
+      "scene_id": "scene_0003",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0003__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0060",
+      "scene_id": "scene_0003",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0003__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0065",
+      "scene_id": "scene_0003",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0003__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0070",
+      "scene_id": "scene_0003",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0003__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0075",
+      "scene_id": "scene_0003",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0003__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0080",
+      "scene_id": "scene_0003",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0003__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0085",
+      "scene_id": "scene_0003",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0003__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0090",
+      "scene_id": "scene_0003",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0003__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0095",
+      "scene_id": "scene_0003",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0003__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0100",
+      "scene_id": "scene_0003",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0003__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0105",
+      "scene_id": "scene_0003",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0003__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0110",
+      "scene_id": "scene_0003",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0003__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0115",
+      "scene_id": "scene_0003",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0003__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0120",
+      "scene_id": "scene_0003",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0003__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0125",
+      "scene_id": "scene_0003",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0003__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0130",
+      "scene_id": "scene_0003",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0003__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0135",
+      "scene_id": "scene_0003",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0003__0135.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0003__0140",
+      "scene_id": "scene_0003",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0003__0140.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0000",
+      "scene_id": "scene_0004",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0004__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0005",
+      "scene_id": "scene_0004",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0004__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0010",
+      "scene_id": "scene_0004",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0004__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0015",
+      "scene_id": "scene_0004",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0004__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0020",
+      "scene_id": "scene_0004",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0004__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0025",
+      "scene_id": "scene_0004",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0004__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0030",
+      "scene_id": "scene_0004",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0004__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0035",
+      "scene_id": "scene_0004",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0004__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0040",
+      "scene_id": "scene_0004",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0004__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0045",
+      "scene_id": "scene_0004",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0004__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0050",
+      "scene_id": "scene_0004",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0004__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0055",
+      "scene_id": "scene_0004",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0004__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0060",
+      "scene_id": "scene_0004",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0004__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0065",
+      "scene_id": "scene_0004",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0004__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0070",
+      "scene_id": "scene_0004",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0004__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0075",
+      "scene_id": "scene_0004",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0004__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0080",
+      "scene_id": "scene_0004",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0004__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0085",
+      "scene_id": "scene_0004",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0004__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0090",
+      "scene_id": "scene_0004",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0004__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0095",
+      "scene_id": "scene_0004",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0004__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0100",
+      "scene_id": "scene_0004",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0004__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0105",
+      "scene_id": "scene_0004",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0004__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0110",
+      "scene_id": "scene_0004",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0004__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0115",
+      "scene_id": "scene_0004",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0004__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0120",
+      "scene_id": "scene_0004",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0004__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0125",
+      "scene_id": "scene_0004",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0004__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0130",
+      "scene_id": "scene_0004",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0004__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0135",
+      "scene_id": "scene_0004",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0004__0135.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0140",
+      "scene_id": "scene_0004",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0004__0140.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0145",
+      "scene_id": "scene_0004",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0004__0145.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0004__0150",
+      "scene_id": "scene_0004",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0004__0150.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0000",
+      "scene_id": "scene_0005",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0005__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0005",
+      "scene_id": "scene_0005",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0005__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0010",
+      "scene_id": "scene_0005",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0005__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0015",
+      "scene_id": "scene_0005",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0005__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0020",
+      "scene_id": "scene_0005",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0005__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0025",
+      "scene_id": "scene_0005",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0005__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0030",
+      "scene_id": "scene_0005",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0005__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0035",
+      "scene_id": "scene_0005",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0005__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0040",
+      "scene_id": "scene_0005",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0005__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0045",
+      "scene_id": "scene_0005",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0005__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0050",
+      "scene_id": "scene_0005",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0005__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0055",
+      "scene_id": "scene_0005",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0005__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0060",
+      "scene_id": "scene_0005",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0005__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0065",
+      "scene_id": "scene_0005",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0005__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0070",
+      "scene_id": "scene_0005",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0005__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0075",
+      "scene_id": "scene_0005",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0005__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0080",
+      "scene_id": "scene_0005",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0005__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0085",
+      "scene_id": "scene_0005",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0005__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0090",
+      "scene_id": "scene_0005",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0005__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0095",
+      "scene_id": "scene_0005",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0005__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0100",
+      "scene_id": "scene_0005",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0005__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0105",
+      "scene_id": "scene_0005",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0005__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0110",
+      "scene_id": "scene_0005",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0005__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0115",
+      "scene_id": "scene_0005",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0005__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0120",
+      "scene_id": "scene_0005",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0005__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0125",
+      "scene_id": "scene_0005",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0005__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0130",
+      "scene_id": "scene_0005",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0005__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0135",
+      "scene_id": "scene_0005",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0005__0135.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0140",
+      "scene_id": "scene_0005",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0005__0140.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0145",
+      "scene_id": "scene_0005",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0005__0145.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0150",
+      "scene_id": "scene_0005",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0005__0150.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0155",
+      "scene_id": "scene_0005",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0005__0155.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0160",
+      "scene_id": "scene_0005",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0005__0160.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0005__0165",
+      "scene_id": "scene_0005",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0005__0165.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0000",
+      "scene_id": "scene_0006",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0006__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0005",
+      "scene_id": "scene_0006",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0006__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0010",
+      "scene_id": "scene_0006",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0006__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0015",
+      "scene_id": "scene_0006",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0006__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0020",
+      "scene_id": "scene_0006",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0006__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0025",
+      "scene_id": "scene_0006",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0006__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0030",
+      "scene_id": "scene_0006",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0006__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0035",
+      "scene_id": "scene_0006",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0006__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0040",
+      "scene_id": "scene_0006",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0006__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0045",
+      "scene_id": "scene_0006",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0006__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0050",
+      "scene_id": "scene_0006",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0006__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0055",
+      "scene_id": "scene_0006",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0006__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0060",
+      "scene_id": "scene_0006",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0006__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0065",
+      "scene_id": "scene_0006",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0006__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0070",
+      "scene_id": "scene_0006",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0006__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0075",
+      "scene_id": "scene_0006",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0006__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0080",
+      "scene_id": "scene_0006",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0006__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0085",
+      "scene_id": "scene_0006",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0006__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0090",
+      "scene_id": "scene_0006",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0006__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0095",
+      "scene_id": "scene_0006",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0006__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0100",
+      "scene_id": "scene_0006",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0006__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0105",
+      "scene_id": "scene_0006",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0006__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0110",
+      "scene_id": "scene_0006",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0006__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0115",
+      "scene_id": "scene_0006",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0006__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0120",
+      "scene_id": "scene_0006",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0006__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0125",
+      "scene_id": "scene_0006",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0006__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0130",
+      "scene_id": "scene_0006",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0006__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0135",
+      "scene_id": "scene_0006",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0006__0135.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0140",
+      "scene_id": "scene_0006",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0006__0140.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0145",
+      "scene_id": "scene_0006",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0006__0145.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0150",
+      "scene_id": "scene_0006",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0006__0150.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0155",
+      "scene_id": "scene_0006",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0006__0155.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0160",
+      "scene_id": "scene_0006",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0006__0160.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0165",
+      "scene_id": "scene_0006",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0006__0165.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0006__0170",
+      "scene_id": "scene_0006",
+      "frame_id": "0170",
+      "sample_path": "samples/hope__scene_0006__0170.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0000",
+      "scene_id": "scene_0007",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0007__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0005",
+      "scene_id": "scene_0007",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0007__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0010",
+      "scene_id": "scene_0007",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0007__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0015",
+      "scene_id": "scene_0007",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0007__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0020",
+      "scene_id": "scene_0007",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0007__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0025",
+      "scene_id": "scene_0007",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0007__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0030",
+      "scene_id": "scene_0007",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0007__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0035",
+      "scene_id": "scene_0007",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0007__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0040",
+      "scene_id": "scene_0007",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0007__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0045",
+      "scene_id": "scene_0007",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0007__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0050",
+      "scene_id": "scene_0007",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0007__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0055",
+      "scene_id": "scene_0007",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0007__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0060",
+      "scene_id": "scene_0007",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0007__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0065",
+      "scene_id": "scene_0007",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0007__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0070",
+      "scene_id": "scene_0007",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0007__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0075",
+      "scene_id": "scene_0007",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0007__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0080",
+      "scene_id": "scene_0007",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0007__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0085",
+      "scene_id": "scene_0007",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0007__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0090",
+      "scene_id": "scene_0007",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0007__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0095",
+      "scene_id": "scene_0007",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0007__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0100",
+      "scene_id": "scene_0007",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0007__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0105",
+      "scene_id": "scene_0007",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0007__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0110",
+      "scene_id": "scene_0007",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0007__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0115",
+      "scene_id": "scene_0007",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0007__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0120",
+      "scene_id": "scene_0007",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0007__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0125",
+      "scene_id": "scene_0007",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0007__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0130",
+      "scene_id": "scene_0007",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0007__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0135",
+      "scene_id": "scene_0007",
+      "frame_id": "0135",
+      "sample_path": "samples/hope__scene_0007__0135.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0140",
+      "scene_id": "scene_0007",
+      "frame_id": "0140",
+      "sample_path": "samples/hope__scene_0007__0140.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0145",
+      "scene_id": "scene_0007",
+      "frame_id": "0145",
+      "sample_path": "samples/hope__scene_0007__0145.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0150",
+      "scene_id": "scene_0007",
+      "frame_id": "0150",
+      "sample_path": "samples/hope__scene_0007__0150.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0155",
+      "scene_id": "scene_0007",
+      "frame_id": "0155",
+      "sample_path": "samples/hope__scene_0007__0155.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0160",
+      "scene_id": "scene_0007",
+      "frame_id": "0160",
+      "sample_path": "samples/hope__scene_0007__0160.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0165",
+      "scene_id": "scene_0007",
+      "frame_id": "0165",
+      "sample_path": "samples/hope__scene_0007__0165.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0170",
+      "scene_id": "scene_0007",
+      "frame_id": "0170",
+      "sample_path": "samples/hope__scene_0007__0170.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0175",
+      "scene_id": "scene_0007",
+      "frame_id": "0175",
+      "sample_path": "samples/hope__scene_0007__0175.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0007__0180",
+      "scene_id": "scene_0007",
+      "frame_id": "0180",
+      "sample_path": "samples/hope__scene_0007__0180.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0000",
+      "scene_id": "scene_0008",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0008__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0005",
+      "scene_id": "scene_0008",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0008__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0010",
+      "scene_id": "scene_0008",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0008__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0015",
+      "scene_id": "scene_0008",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0008__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0020",
+      "scene_id": "scene_0008",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0008__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0025",
+      "scene_id": "scene_0008",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0008__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0030",
+      "scene_id": "scene_0008",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0008__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0035",
+      "scene_id": "scene_0008",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0008__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0040",
+      "scene_id": "scene_0008",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0008__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0045",
+      "scene_id": "scene_0008",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0008__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0050",
+      "scene_id": "scene_0008",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0008__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0055",
+      "scene_id": "scene_0008",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0008__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0060",
+      "scene_id": "scene_0008",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0008__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0065",
+      "scene_id": "scene_0008",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0008__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0070",
+      "scene_id": "scene_0008",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0008__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0075",
+      "scene_id": "scene_0008",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0008__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0080",
+      "scene_id": "scene_0008",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0008__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0085",
+      "scene_id": "scene_0008",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0008__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0090",
+      "scene_id": "scene_0008",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0008__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0095",
+      "scene_id": "scene_0008",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0008__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0100",
+      "scene_id": "scene_0008",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0008__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0105",
+      "scene_id": "scene_0008",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0008__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0110",
+      "scene_id": "scene_0008",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0008__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0115",
+      "scene_id": "scene_0008",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0008__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0120",
+      "scene_id": "scene_0008",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0008__0120.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0125",
+      "scene_id": "scene_0008",
+      "frame_id": "0125",
+      "sample_path": "samples/hope__scene_0008__0125.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0008__0130",
+      "scene_id": "scene_0008",
+      "frame_id": "0130",
+      "sample_path": "samples/hope__scene_0008__0130.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0000",
+      "scene_id": "scene_0009",
+      "frame_id": "0000",
+      "sample_path": "samples/hope__scene_0009__0000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0005",
+      "scene_id": "scene_0009",
+      "frame_id": "0005",
+      "sample_path": "samples/hope__scene_0009__0005.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0010",
+      "scene_id": "scene_0009",
+      "frame_id": "0010",
+      "sample_path": "samples/hope__scene_0009__0010.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0015",
+      "scene_id": "scene_0009",
+      "frame_id": "0015",
+      "sample_path": "samples/hope__scene_0009__0015.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0020",
+      "scene_id": "scene_0009",
+      "frame_id": "0020",
+      "sample_path": "samples/hope__scene_0009__0020.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0025",
+      "scene_id": "scene_0009",
+      "frame_id": "0025",
+      "sample_path": "samples/hope__scene_0009__0025.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0030",
+      "scene_id": "scene_0009",
+      "frame_id": "0030",
+      "sample_path": "samples/hope__scene_0009__0030.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0035",
+      "scene_id": "scene_0009",
+      "frame_id": "0035",
+      "sample_path": "samples/hope__scene_0009__0035.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0040",
+      "scene_id": "scene_0009",
+      "frame_id": "0040",
+      "sample_path": "samples/hope__scene_0009__0040.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0045",
+      "scene_id": "scene_0009",
+      "frame_id": "0045",
+      "sample_path": "samples/hope__scene_0009__0045.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0050",
+      "scene_id": "scene_0009",
+      "frame_id": "0050",
+      "sample_path": "samples/hope__scene_0009__0050.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0055",
+      "scene_id": "scene_0009",
+      "frame_id": "0055",
+      "sample_path": "samples/hope__scene_0009__0055.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0060",
+      "scene_id": "scene_0009",
+      "frame_id": "0060",
+      "sample_path": "samples/hope__scene_0009__0060.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0065",
+      "scene_id": "scene_0009",
+      "frame_id": "0065",
+      "sample_path": "samples/hope__scene_0009__0065.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0070",
+      "scene_id": "scene_0009",
+      "frame_id": "0070",
+      "sample_path": "samples/hope__scene_0009__0070.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0075",
+      "scene_id": "scene_0009",
+      "frame_id": "0075",
+      "sample_path": "samples/hope__scene_0009__0075.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0080",
+      "scene_id": "scene_0009",
+      "frame_id": "0080",
+      "sample_path": "samples/hope__scene_0009__0080.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0085",
+      "scene_id": "scene_0009",
+      "frame_id": "0085",
+      "sample_path": "samples/hope__scene_0009__0085.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0090",
+      "scene_id": "scene_0009",
+      "frame_id": "0090",
+      "sample_path": "samples/hope__scene_0009__0090.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0095",
+      "scene_id": "scene_0009",
+      "frame_id": "0095",
+      "sample_path": "samples/hope__scene_0009__0095.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0100",
+      "scene_id": "scene_0009",
+      "frame_id": "0100",
+      "sample_path": "samples/hope__scene_0009__0100.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0105",
+      "scene_id": "scene_0009",
+      "frame_id": "0105",
+      "sample_path": "samples/hope__scene_0009__0105.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0110",
+      "scene_id": "scene_0009",
+      "frame_id": "0110",
+      "sample_path": "samples/hope__scene_0009__0110.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0115",
+      "scene_id": "scene_0009",
+      "frame_id": "0115",
+      "sample_path": "samples/hope__scene_0009__0115.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "hope__scene_0009__0120",
+      "scene_id": "scene_0009",
+      "frame_id": "0120",
+      "sample_path": "samples/hope__scene_0009__0120.json",
+      "object_count": 5
+    }
+  ],
+  "preprocess": {
+    "point_cloud_stride": 2,
+    "point_count": 50000,
+    "voxel_point_cloud_size_cm": 1.0,
+    "depth_window_cm": 50.0
+  }
+}

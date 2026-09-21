@@ -1,0 +1,102 @@
+{
+  "schema_version": "lc_bgplacenet_stage1_splits/v1",
+  "seed": 20260624,
+  "valid_fraction": 0.1,
+  "test_fraction": 0.1,
+  "group_by": [
+    "source_name",
+    "sample_id"
+  ],
+  "item_count": 78506,
+  "group_count": 9741,
+  "split_item_counts": {
+    "train": 63384,
+    "valid": 7496,
+    "test": 7626
+  },
+  "split_group_counts": {
+    "train": 7793,
+    "valid": 974,
+    "test": 974
+  },
+  "source_counts": {
+    "dopose": {
+      "groups": {
+        "train": 516,
+        "valid": 65,
+        "test": 65
+      },
+      "items": {
+        "train": 2935,
+        "valid": 338,
+        "test": 359
+      }
+    },
+    "hope": {
+      "groups": {
+        "train": 274,
+        "valid": 34,
+        "test": 34
+      },
+      "items": {
+        "train": 1377,
+        "valid": 129,
+        "test": 156
+      }
+    },
+    "housecat": {
+      "groups": {
+        "train": 1252,
+        "valid": 156,
+        "test": 156
+      },
+      "items": {
+        "train": 10034,
+        "valid": 1212,
+        "test": 1239
+      }
+    },
+    "omni": {
+      "groups": {
+        "train": 5173,
+        "valid": 647,
+        "test": 647
+      },
+      "items": {
+        "train": 46976,
+        "valid": 5540,
+        "test": 5636
+      }
+    },
+    "ycbv": {
+      "groups": {
+        "train": 578,
+        "valid": 72,
+        "test": 72
+      },
+      "items": {
+        "train": 2062,
+        "valid": 277,
+        "test": 236
+      }
+    }
+  },
+  "mapped_from": "data/splits/active_aligned",
+  "label_variant": "enriched",
+  "mapping_key": [
+    "source_name",
+    "label_index",
+    "sample_id",
+    "object_id"
+  ],
+  "changed_item_ids": {
+    "train": 63384,
+    "valid": 7496,
+    "test": 7626
+  },
+  "changed_instructions": {
+    "train": 63384,
+    "valid": 7496,
+    "test": 7626
+  }
+}

@@ -20,6 +20,7 @@ from main_utils import parse_option, BaseTrainTester
 from data.model_util_scannet import ScannetDatasetConfig
 from models import EG
 from src.joint_det_dataset import Joint3DDataset
+from src.placement_dataset import Placement3DDataset
 from src.grounding_evaluator import GroundingEvaluator
 from models import APCalculator, parse_predictions, parse_groundtruths
 
@@ -43,6 +44,23 @@ class TrainTester(BaseTrainTester):
     @staticmethod
     def get_datasets(args):
         """Initialize datasets."""
+
+        if args.custom_data_root:
+            common = dict(
+                data_root=args.custom_data_root,
+                split_root=args.custom_split_root,
+                manifest_root=args.custom_manifest_root,
+                tokenizer_root=args.data_root,
+                num_points=args.num_points,
+                use_color=args.use_color,
+                superpoint_voxel_size=args.superpoint_voxel_size,
+                seed=args.rng_seed,
+                limit=128 if args.debug else None,
+            )
+            train_dataset = None if args.eval else Placement3DDataset(split='train', **common)
+            test_dataset = Placement3DDataset(
+                split='train' if args.eval_train else 'val', **common)
+            return train_dataset, test_dataset
 
         dataset_dict = {}  # dict to use multiple datasets
         for dset in args.dataset:

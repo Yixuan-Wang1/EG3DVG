@@ -1,0 +1,4812 @@
+{
+  "schema_version": "canonical_placement_manifest/v1",
+  "dataset": "dopose",
+  "sample_count": 684,
+  "unit": "cm",
+  "samples": [
+    {
+      "sample_id": "dopose__test_table_000001__000000",
+      "scene_id": "test_table_000001",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000001__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000001__000001",
+      "scene_id": "test_table_000001",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000001__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000001__000002",
+      "scene_id": "test_table_000001",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000001__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000002__000000",
+      "scene_id": "test_table_000002",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000002__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000002__000001",
+      "scene_id": "test_table_000002",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000002__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000002__000002",
+      "scene_id": "test_table_000002",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000002__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000003__000000",
+      "scene_id": "test_table_000003",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000003__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000003__000001",
+      "scene_id": "test_table_000003",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000003__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000003__000002",
+      "scene_id": "test_table_000003",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000003__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000004__000000",
+      "scene_id": "test_table_000004",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000004__000000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000004__000001",
+      "scene_id": "test_table_000004",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000004__000001.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000004__000002",
+      "scene_id": "test_table_000004",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000004__000002.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000005__000000",
+      "scene_id": "test_table_000005",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000005__000000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000005__000001",
+      "scene_id": "test_table_000005",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000005__000001.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000005__000002",
+      "scene_id": "test_table_000005",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000005__000002.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000006__000000",
+      "scene_id": "test_table_000006",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000006__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000006__000001",
+      "scene_id": "test_table_000006",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000006__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000006__000002",
+      "scene_id": "test_table_000006",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000006__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000007__000000",
+      "scene_id": "test_table_000007",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000007__000000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000007__000001",
+      "scene_id": "test_table_000007",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000007__000001.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000007__000002",
+      "scene_id": "test_table_000007",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000007__000002.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000008__000000",
+      "scene_id": "test_table_000008",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000008__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000008__000001",
+      "scene_id": "test_table_000008",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000008__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000008__000002",
+      "scene_id": "test_table_000008",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000008__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000009__000000",
+      "scene_id": "test_table_000009",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000009__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000009__000001",
+      "scene_id": "test_table_000009",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000009__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000009__000002",
+      "scene_id": "test_table_000009",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000009__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000010__000000",
+      "scene_id": "test_table_000010",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000010__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000010__000001",
+      "scene_id": "test_table_000010",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000010__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000010__000002",
+      "scene_id": "test_table_000010",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000010__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000011__000000",
+      "scene_id": "test_table_000011",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000011__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000011__000001",
+      "scene_id": "test_table_000011",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000011__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000011__000002",
+      "scene_id": "test_table_000011",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000011__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000012__000000",
+      "scene_id": "test_table_000012",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000012__000000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000012__000001",
+      "scene_id": "test_table_000012",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000012__000001.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000012__000002",
+      "scene_id": "test_table_000012",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000012__000002.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000013__000000",
+      "scene_id": "test_table_000013",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000013__000000.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000013__000001",
+      "scene_id": "test_table_000013",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000013__000001.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000013__000002",
+      "scene_id": "test_table_000013",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000013__000002.json",
+      "object_count": 5
+    },
+    {
+      "sample_id": "dopose__test_table_000014__000000",
+      "scene_id": "test_table_000014",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000014__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000014__000001",
+      "scene_id": "test_table_000014",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000014__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000014__000002",
+      "scene_id": "test_table_000014",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000014__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000015__000000",
+      "scene_id": "test_table_000015",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000015__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000015__000001",
+      "scene_id": "test_table_000015",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000015__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000015__000002",
+      "scene_id": "test_table_000015",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000015__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000016__000000",
+      "scene_id": "test_table_000016",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000016__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000016__000001",
+      "scene_id": "test_table_000016",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000016__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000016__000002",
+      "scene_id": "test_table_000016",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000016__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000017__000000",
+      "scene_id": "test_table_000017",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000017__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000017__000001",
+      "scene_id": "test_table_000017",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000017__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000017__000002",
+      "scene_id": "test_table_000017",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000017__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000018__000000",
+      "scene_id": "test_table_000018",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000018__000000.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000018__000001",
+      "scene_id": "test_table_000018",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000018__000001.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000018__000002",
+      "scene_id": "test_table_000018",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000018__000002.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000019__000000",
+      "scene_id": "test_table_000019",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000019__000000.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000019__000001",
+      "scene_id": "test_table_000019",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000019__000001.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000019__000002",
+      "scene_id": "test_table_000019",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000019__000002.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000020__000000",
+      "scene_id": "test_table_000020",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000020__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000020__000001",
+      "scene_id": "test_table_000020",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000020__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000020__000002",
+      "scene_id": "test_table_000020",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000020__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000000",
+      "scene_id": "test_table_000021",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000021__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000001",
+      "scene_id": "test_table_000021",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000021__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000002",
+      "scene_id": "test_table_000021",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000021__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000003",
+      "scene_id": "test_table_000021",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000021__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000004",
+      "scene_id": "test_table_000021",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000021__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000021__000005",
+      "scene_id": "test_table_000021",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000021__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000000",
+      "scene_id": "test_table_000022",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000022__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000001",
+      "scene_id": "test_table_000022",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000022__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000002",
+      "scene_id": "test_table_000022",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000022__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000003",
+      "scene_id": "test_table_000022",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000022__000003.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000004",
+      "scene_id": "test_table_000022",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000022__000004.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000022__000005",
+      "scene_id": "test_table_000022",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000022__000005.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000000",
+      "scene_id": "test_table_000023",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000023__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000001",
+      "scene_id": "test_table_000023",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000023__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000002",
+      "scene_id": "test_table_000023",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000023__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000003",
+      "scene_id": "test_table_000023",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000023__000003.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000004",
+      "scene_id": "test_table_000023",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000023__000004.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000023__000005",
+      "scene_id": "test_table_000023",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000023__000005.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000000",
+      "scene_id": "test_table_000024",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000024__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000001",
+      "scene_id": "test_table_000024",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000024__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000002",
+      "scene_id": "test_table_000024",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000024__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000003",
+      "scene_id": "test_table_000024",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000024__000003.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000004",
+      "scene_id": "test_table_000024",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000024__000004.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000024__000005",
+      "scene_id": "test_table_000024",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000024__000005.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000000",
+      "scene_id": "test_table_000025",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000025__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000001",
+      "scene_id": "test_table_000025",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000025__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000002",
+      "scene_id": "test_table_000025",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000025__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000003",
+      "scene_id": "test_table_000025",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000025__000003.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000004",
+      "scene_id": "test_table_000025",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000025__000004.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000025__000005",
+      "scene_id": "test_table_000025",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000025__000005.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000000",
+      "scene_id": "test_table_000026",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000026__000000.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000001",
+      "scene_id": "test_table_000026",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000026__000001.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000002",
+      "scene_id": "test_table_000026",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000026__000002.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000003",
+      "scene_id": "test_table_000026",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000026__000003.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000004",
+      "scene_id": "test_table_000026",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000026__000004.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000026__000005",
+      "scene_id": "test_table_000026",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000026__000005.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000000",
+      "scene_id": "test_table_000027",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000027__000000.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000001",
+      "scene_id": "test_table_000027",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000027__000001.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000002",
+      "scene_id": "test_table_000027",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000027__000002.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000003",
+      "scene_id": "test_table_000027",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000027__000003.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000004",
+      "scene_id": "test_table_000027",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000027__000004.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000027__000005",
+      "scene_id": "test_table_000027",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000027__000005.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000000",
+      "scene_id": "test_table_000028",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000028__000000.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000001",
+      "scene_id": "test_table_000028",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000028__000001.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000002",
+      "scene_id": "test_table_000028",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000028__000002.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000003",
+      "scene_id": "test_table_000028",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000028__000003.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000004",
+      "scene_id": "test_table_000028",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000028__000004.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000028__000005",
+      "scene_id": "test_table_000028",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000028__000005.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000000",
+      "scene_id": "test_table_000029",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000029__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000001",
+      "scene_id": "test_table_000029",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000029__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000002",
+      "scene_id": "test_table_000029",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000029__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000003",
+      "scene_id": "test_table_000029",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000029__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000004",
+      "scene_id": "test_table_000029",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000029__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000029__000005",
+      "scene_id": "test_table_000029",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000029__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000000",
+      "scene_id": "test_table_000030",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000030__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000001",
+      "scene_id": "test_table_000030",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000030__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000002",
+      "scene_id": "test_table_000030",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000030__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000003",
+      "scene_id": "test_table_000030",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000030__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000004",
+      "scene_id": "test_table_000030",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000030__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000030__000005",
+      "scene_id": "test_table_000030",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000030__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000000",
+      "scene_id": "test_table_000031",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000031__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000001",
+      "scene_id": "test_table_000031",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000031__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000002",
+      "scene_id": "test_table_000031",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000031__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000003",
+      "scene_id": "test_table_000031",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000031__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000004",
+      "scene_id": "test_table_000031",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000031__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000031__000005",
+      "scene_id": "test_table_000031",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000031__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000000",
+      "scene_id": "test_table_000032",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000032__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000001",
+      "scene_id": "test_table_000032",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000032__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000002",
+      "scene_id": "test_table_000032",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000032__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000003",
+      "scene_id": "test_table_000032",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000032__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000004",
+      "scene_id": "test_table_000032",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000032__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000032__000005",
+      "scene_id": "test_table_000032",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000032__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000000",
+      "scene_id": "test_table_000033",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000033__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000001",
+      "scene_id": "test_table_000033",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000033__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000002",
+      "scene_id": "test_table_000033",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000033__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000003",
+      "scene_id": "test_table_000033",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000033__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000004",
+      "scene_id": "test_table_000033",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000033__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000033__000005",
+      "scene_id": "test_table_000033",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000033__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000000",
+      "scene_id": "test_table_000034",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000034__000000.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000001",
+      "scene_id": "test_table_000034",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000034__000001.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000002",
+      "scene_id": "test_table_000034",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000034__000002.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000003",
+      "scene_id": "test_table_000034",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000034__000003.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000004",
+      "scene_id": "test_table_000034",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000034__000004.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000034__000005",
+      "scene_id": "test_table_000034",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000034__000005.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000000",
+      "scene_id": "test_table_000035",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000035__000000.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000001",
+      "scene_id": "test_table_000035",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000035__000001.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000002",
+      "scene_id": "test_table_000035",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000035__000002.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000003",
+      "scene_id": "test_table_000035",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000035__000003.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000004",
+      "scene_id": "test_table_000035",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000035__000004.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000035__000005",
+      "scene_id": "test_table_000035",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000035__000005.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000000",
+      "scene_id": "test_table_000036",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000036__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000001",
+      "scene_id": "test_table_000036",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000036__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000002",
+      "scene_id": "test_table_000036",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000036__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000003",
+      "scene_id": "test_table_000036",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000036__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000004",
+      "scene_id": "test_table_000036",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000036__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000036__000005",
+      "scene_id": "test_table_000036",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000036__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000000",
+      "scene_id": "test_table_000037",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000037__000000.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000001",
+      "scene_id": "test_table_000037",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000037__000001.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000002",
+      "scene_id": "test_table_000037",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000037__000002.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000003",
+      "scene_id": "test_table_000037",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000037__000003.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000004",
+      "scene_id": "test_table_000037",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000037__000004.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000037__000005",
+      "scene_id": "test_table_000037",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000037__000005.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000000",
+      "scene_id": "test_table_000038",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000038__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000001",
+      "scene_id": "test_table_000038",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000038__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000002",
+      "scene_id": "test_table_000038",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000038__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000003",
+      "scene_id": "test_table_000038",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000038__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000004",
+      "scene_id": "test_table_000038",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000038__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000038__000005",
+      "scene_id": "test_table_000038",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000038__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000000",
+      "scene_id": "test_table_000039",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000039__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000001",
+      "scene_id": "test_table_000039",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000039__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000002",
+      "scene_id": "test_table_000039",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000039__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000003",
+      "scene_id": "test_table_000039",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000039__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000004",
+      "scene_id": "test_table_000039",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000039__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000039__000005",
+      "scene_id": "test_table_000039",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000039__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000000",
+      "scene_id": "test_table_000040",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000040__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000001",
+      "scene_id": "test_table_000040",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000040__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000002",
+      "scene_id": "test_table_000040",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000040__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000003",
+      "scene_id": "test_table_000040",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000040__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000004",
+      "scene_id": "test_table_000040",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000040__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000040__000005",
+      "scene_id": "test_table_000040",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000040__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000000",
+      "scene_id": "test_table_000041",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000041__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000001",
+      "scene_id": "test_table_000041",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000041__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000002",
+      "scene_id": "test_table_000041",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000041__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000003",
+      "scene_id": "test_table_000041",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000041__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000004",
+      "scene_id": "test_table_000041",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000041__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000041__000005",
+      "scene_id": "test_table_000041",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000041__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000000",
+      "scene_id": "test_table_000042",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000042__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000001",
+      "scene_id": "test_table_000042",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000042__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000002",
+      "scene_id": "test_table_000042",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000042__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000003",
+      "scene_id": "test_table_000042",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000042__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000004",
+      "scene_id": "test_table_000042",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000042__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000042__000005",
+      "scene_id": "test_table_000042",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000042__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000000",
+      "scene_id": "test_table_000043",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000043__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000001",
+      "scene_id": "test_table_000043",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000043__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000002",
+      "scene_id": "test_table_000043",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000043__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000003",
+      "scene_id": "test_table_000043",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000043__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000004",
+      "scene_id": "test_table_000043",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000043__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000043__000005",
+      "scene_id": "test_table_000043",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000043__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000044__000000",
+      "scene_id": "test_table_000044",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000044__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000044__000001",
+      "scene_id": "test_table_000044",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000044__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000044__000002",
+      "scene_id": "test_table_000044",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000044__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000044__000003",
+      "scene_id": "test_table_000044",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000044__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000044__000004",
+      "scene_id": "test_table_000044",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000044__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000000",
+      "scene_id": "test_table_000045",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000045__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000001",
+      "scene_id": "test_table_000045",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000045__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000002",
+      "scene_id": "test_table_000045",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000045__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000003",
+      "scene_id": "test_table_000045",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000045__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000004",
+      "scene_id": "test_table_000045",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000045__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000045__000005",
+      "scene_id": "test_table_000045",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000045__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000000",
+      "scene_id": "test_table_000046",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000046__000000.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000001",
+      "scene_id": "test_table_000046",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000046__000001.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000002",
+      "scene_id": "test_table_000046",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000046__000002.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000003",
+      "scene_id": "test_table_000046",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000046__000003.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000004",
+      "scene_id": "test_table_000046",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000046__000004.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000046__000005",
+      "scene_id": "test_table_000046",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000046__000005.json",
+      "object_count": 1
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000000",
+      "scene_id": "test_table_000047",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000047__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000001",
+      "scene_id": "test_table_000047",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000047__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000002",
+      "scene_id": "test_table_000047",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000047__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000003",
+      "scene_id": "test_table_000047",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000047__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000004",
+      "scene_id": "test_table_000047",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000047__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000047__000005",
+      "scene_id": "test_table_000047",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000047__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000000",
+      "scene_id": "test_table_000048",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000048__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000001",
+      "scene_id": "test_table_000048",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000048__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000002",
+      "scene_id": "test_table_000048",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000048__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000003",
+      "scene_id": "test_table_000048",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000048__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000004",
+      "scene_id": "test_table_000048",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000048__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000048__000005",
+      "scene_id": "test_table_000048",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000048__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000000",
+      "scene_id": "test_table_000049",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000049__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000001",
+      "scene_id": "test_table_000049",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000049__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000002",
+      "scene_id": "test_table_000049",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000049__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000003",
+      "scene_id": "test_table_000049",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000049__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000004",
+      "scene_id": "test_table_000049",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000049__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000049__000005",
+      "scene_id": "test_table_000049",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000049__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000000",
+      "scene_id": "test_table_000050",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000050__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000001",
+      "scene_id": "test_table_000050",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000050__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000002",
+      "scene_id": "test_table_000050",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000050__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000003",
+      "scene_id": "test_table_000050",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000050__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000004",
+      "scene_id": "test_table_000050",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000050__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000050__000005",
+      "scene_id": "test_table_000050",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000050__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000000",
+      "scene_id": "test_table_000051",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000051__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000001",
+      "scene_id": "test_table_000051",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000051__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000002",
+      "scene_id": "test_table_000051",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000051__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000003",
+      "scene_id": "test_table_000051",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000051__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000004",
+      "scene_id": "test_table_000051",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000051__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000051__000005",
+      "scene_id": "test_table_000051",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000051__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000000",
+      "scene_id": "test_table_000052",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000052__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000001",
+      "scene_id": "test_table_000052",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000052__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000002",
+      "scene_id": "test_table_000052",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000052__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000003",
+      "scene_id": "test_table_000052",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000052__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000004",
+      "scene_id": "test_table_000052",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000052__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000052__000005",
+      "scene_id": "test_table_000052",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000052__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000000",
+      "scene_id": "test_table_000053",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000053__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000001",
+      "scene_id": "test_table_000053",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000053__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000002",
+      "scene_id": "test_table_000053",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000053__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000003",
+      "scene_id": "test_table_000053",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000053__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000004",
+      "scene_id": "test_table_000053",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000053__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000053__000005",
+      "scene_id": "test_table_000053",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000053__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000000",
+      "scene_id": "test_table_000054",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000054__000000.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000001",
+      "scene_id": "test_table_000054",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000054__000001.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000002",
+      "scene_id": "test_table_000054",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000054__000002.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000003",
+      "scene_id": "test_table_000054",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000054__000003.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000004",
+      "scene_id": "test_table_000054",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000054__000004.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000054__000005",
+      "scene_id": "test_table_000054",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000054__000005.json",
+      "object_count": 6
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000000",
+      "scene_id": "test_table_000055",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000055__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000001",
+      "scene_id": "test_table_000055",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000055__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000002",
+      "scene_id": "test_table_000055",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000055__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000003",
+      "scene_id": "test_table_000055",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000055__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000004",
+      "scene_id": "test_table_000055",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000055__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000055__000005",
+      "scene_id": "test_table_000055",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000055__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000000",
+      "scene_id": "test_table_000056",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000056__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000001",
+      "scene_id": "test_table_000056",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000056__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000002",
+      "scene_id": "test_table_000056",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000056__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000003",
+      "scene_id": "test_table_000056",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000056__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000004",
+      "scene_id": "test_table_000056",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000056__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000056__000005",
+      "scene_id": "test_table_000056",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000056__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000000",
+      "scene_id": "test_table_000057",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000057__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000001",
+      "scene_id": "test_table_000057",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000057__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000002",
+      "scene_id": "test_table_000057",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000057__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000003",
+      "scene_id": "test_table_000057",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000057__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000004",
+      "scene_id": "test_table_000057",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000057__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000057__000005",
+      "scene_id": "test_table_000057",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000057__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000000",
+      "scene_id": "test_table_000058",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000058__000000.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000001",
+      "scene_id": "test_table_000058",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000058__000001.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000002",
+      "scene_id": "test_table_000058",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000058__000002.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000003",
+      "scene_id": "test_table_000058",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000058__000003.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000004",
+      "scene_id": "test_table_000058",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000058__000004.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000058__000005",
+      "scene_id": "test_table_000058",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000058__000005.json",
+      "object_count": 12
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000000",
+      "scene_id": "test_table_000059",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000059__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000001",
+      "scene_id": "test_table_000059",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000059__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000002",
+      "scene_id": "test_table_000059",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000059__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000003",
+      "scene_id": "test_table_000059",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000059__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000004",
+      "scene_id": "test_table_000059",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000059__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000059__000005",
+      "scene_id": "test_table_000059",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000059__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000000",
+      "scene_id": "test_table_000096",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000096__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000001",
+      "scene_id": "test_table_000096",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000096__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000002",
+      "scene_id": "test_table_000096",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000096__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000003",
+      "scene_id": "test_table_000096",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000096__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000004",
+      "scene_id": "test_table_000096",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000096__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000005",
+      "scene_id": "test_table_000096",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000096__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000006",
+      "scene_id": "test_table_000096",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000096__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000007",
+      "scene_id": "test_table_000096",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000096__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000008",
+      "scene_id": "test_table_000096",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000096__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000009",
+      "scene_id": "test_table_000096",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000096__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000010",
+      "scene_id": "test_table_000096",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000096__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000011",
+      "scene_id": "test_table_000096",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000096__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000012",
+      "scene_id": "test_table_000096",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000096__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000013",
+      "scene_id": "test_table_000096",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000096__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000014",
+      "scene_id": "test_table_000096",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000096__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000015",
+      "scene_id": "test_table_000096",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000096__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000096__000016",
+      "scene_id": "test_table_000096",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000096__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000000",
+      "scene_id": "test_table_000097",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000097__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000001",
+      "scene_id": "test_table_000097",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000097__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000002",
+      "scene_id": "test_table_000097",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000097__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000003",
+      "scene_id": "test_table_000097",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000097__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000004",
+      "scene_id": "test_table_000097",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000097__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000005",
+      "scene_id": "test_table_000097",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000097__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000006",
+      "scene_id": "test_table_000097",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000097__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000007",
+      "scene_id": "test_table_000097",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000097__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000008",
+      "scene_id": "test_table_000097",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000097__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000009",
+      "scene_id": "test_table_000097",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000097__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000010",
+      "scene_id": "test_table_000097",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000097__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000011",
+      "scene_id": "test_table_000097",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000097__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000012",
+      "scene_id": "test_table_000097",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000097__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000013",
+      "scene_id": "test_table_000097",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000097__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000014",
+      "scene_id": "test_table_000097",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000097__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000015",
+      "scene_id": "test_table_000097",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000097__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000097__000016",
+      "scene_id": "test_table_000097",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000097__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000000",
+      "scene_id": "test_table_000098",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000098__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000001",
+      "scene_id": "test_table_000098",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000098__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000002",
+      "scene_id": "test_table_000098",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000098__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000003",
+      "scene_id": "test_table_000098",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000098__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000004",
+      "scene_id": "test_table_000098",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000098__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000005",
+      "scene_id": "test_table_000098",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000098__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000006",
+      "scene_id": "test_table_000098",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000098__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000007",
+      "scene_id": "test_table_000098",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000098__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000008",
+      "scene_id": "test_table_000098",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000098__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000009",
+      "scene_id": "test_table_000098",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000098__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000010",
+      "scene_id": "test_table_000098",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000098__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000011",
+      "scene_id": "test_table_000098",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000098__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000012",
+      "scene_id": "test_table_000098",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000098__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000013",
+      "scene_id": "test_table_000098",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000098__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000014",
+      "scene_id": "test_table_000098",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000098__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000015",
+      "scene_id": "test_table_000098",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000098__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000098__000016",
+      "scene_id": "test_table_000098",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000098__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000000",
+      "scene_id": "test_table_000099",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000099__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000001",
+      "scene_id": "test_table_000099",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000099__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000002",
+      "scene_id": "test_table_000099",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000099__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000003",
+      "scene_id": "test_table_000099",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000099__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000004",
+      "scene_id": "test_table_000099",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000099__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000005",
+      "scene_id": "test_table_000099",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000099__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000006",
+      "scene_id": "test_table_000099",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000099__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000007",
+      "scene_id": "test_table_000099",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000099__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000008",
+      "scene_id": "test_table_000099",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000099__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000009",
+      "scene_id": "test_table_000099",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000099__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000010",
+      "scene_id": "test_table_000099",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000099__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000011",
+      "scene_id": "test_table_000099",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000099__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000012",
+      "scene_id": "test_table_000099",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000099__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000013",
+      "scene_id": "test_table_000099",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000099__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000014",
+      "scene_id": "test_table_000099",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000099__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000015",
+      "scene_id": "test_table_000099",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000099__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000099__000016",
+      "scene_id": "test_table_000099",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000099__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000000",
+      "scene_id": "test_table_000100",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000100__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000001",
+      "scene_id": "test_table_000100",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000100__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000002",
+      "scene_id": "test_table_000100",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000100__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000003",
+      "scene_id": "test_table_000100",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000100__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000004",
+      "scene_id": "test_table_000100",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000100__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000005",
+      "scene_id": "test_table_000100",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000100__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000006",
+      "scene_id": "test_table_000100",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000100__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000007",
+      "scene_id": "test_table_000100",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000100__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000008",
+      "scene_id": "test_table_000100",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000100__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000009",
+      "scene_id": "test_table_000100",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000100__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000010",
+      "scene_id": "test_table_000100",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000100__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000011",
+      "scene_id": "test_table_000100",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000100__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000012",
+      "scene_id": "test_table_000100",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000100__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000013",
+      "scene_id": "test_table_000100",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000100__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000014",
+      "scene_id": "test_table_000100",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000100__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000015",
+      "scene_id": "test_table_000100",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000100__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000100__000016",
+      "scene_id": "test_table_000100",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000100__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000000",
+      "scene_id": "test_table_000101",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000101__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000001",
+      "scene_id": "test_table_000101",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000101__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000002",
+      "scene_id": "test_table_000101",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000101__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000003",
+      "scene_id": "test_table_000101",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000101__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000004",
+      "scene_id": "test_table_000101",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000101__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000005",
+      "scene_id": "test_table_000101",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000101__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000006",
+      "scene_id": "test_table_000101",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000101__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000007",
+      "scene_id": "test_table_000101",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000101__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000008",
+      "scene_id": "test_table_000101",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000101__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000009",
+      "scene_id": "test_table_000101",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000101__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000010",
+      "scene_id": "test_table_000101",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000101__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000011",
+      "scene_id": "test_table_000101",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000101__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000012",
+      "scene_id": "test_table_000101",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000101__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000013",
+      "scene_id": "test_table_000101",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000101__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000014",
+      "scene_id": "test_table_000101",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000101__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000015",
+      "scene_id": "test_table_000101",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000101__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000101__000016",
+      "scene_id": "test_table_000101",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000101__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000000",
+      "scene_id": "test_table_000102",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000102__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000001",
+      "scene_id": "test_table_000102",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000102__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000002",
+      "scene_id": "test_table_000102",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000102__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000003",
+      "scene_id": "test_table_000102",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000102__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000004",
+      "scene_id": "test_table_000102",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000102__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000005",
+      "scene_id": "test_table_000102",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000102__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000006",
+      "scene_id": "test_table_000102",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000102__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000007",
+      "scene_id": "test_table_000102",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000102__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000008",
+      "scene_id": "test_table_000102",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000102__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000009",
+      "scene_id": "test_table_000102",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000102__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000010",
+      "scene_id": "test_table_000102",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000102__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000011",
+      "scene_id": "test_table_000102",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000102__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000012",
+      "scene_id": "test_table_000102",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000102__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000013",
+      "scene_id": "test_table_000102",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000102__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000014",
+      "scene_id": "test_table_000102",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000102__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000015",
+      "scene_id": "test_table_000102",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000102__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000102__000016",
+      "scene_id": "test_table_000102",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000102__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000000",
+      "scene_id": "test_table_000103",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000103__000000.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000001",
+      "scene_id": "test_table_000103",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000103__000001.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000002",
+      "scene_id": "test_table_000103",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000103__000002.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000003",
+      "scene_id": "test_table_000103",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000103__000003.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000004",
+      "scene_id": "test_table_000103",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000103__000004.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000005",
+      "scene_id": "test_table_000103",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000103__000005.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000006",
+      "scene_id": "test_table_000103",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000103__000006.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000007",
+      "scene_id": "test_table_000103",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000103__000007.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000008",
+      "scene_id": "test_table_000103",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000103__000008.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000009",
+      "scene_id": "test_table_000103",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000103__000009.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000010",
+      "scene_id": "test_table_000103",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000103__000010.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000011",
+      "scene_id": "test_table_000103",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000103__000011.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000012",
+      "scene_id": "test_table_000103",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000103__000012.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000013",
+      "scene_id": "test_table_000103",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000103__000013.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000014",
+      "scene_id": "test_table_000103",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000103__000014.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000015",
+      "scene_id": "test_table_000103",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000103__000015.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000103__000016",
+      "scene_id": "test_table_000103",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000103__000016.json",
+      "object_count": 2
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000000",
+      "scene_id": "test_table_000104",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000104__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000001",
+      "scene_id": "test_table_000104",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000104__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000002",
+      "scene_id": "test_table_000104",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000104__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000003",
+      "scene_id": "test_table_000104",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000104__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000004",
+      "scene_id": "test_table_000104",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000104__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000005",
+      "scene_id": "test_table_000104",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000104__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000006",
+      "scene_id": "test_table_000104",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000104__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000007",
+      "scene_id": "test_table_000104",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000104__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000008",
+      "scene_id": "test_table_000104",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000104__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000009",
+      "scene_id": "test_table_000104",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000104__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000010",
+      "scene_id": "test_table_000104",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000104__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000011",
+      "scene_id": "test_table_000104",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000104__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000012",
+      "scene_id": "test_table_000104",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000104__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000013",
+      "scene_id": "test_table_000104",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000104__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000014",
+      "scene_id": "test_table_000104",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000104__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000015",
+      "scene_id": "test_table_000104",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000104__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000104__000016",
+      "scene_id": "test_table_000104",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000104__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000000",
+      "scene_id": "test_table_000105",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000105__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000001",
+      "scene_id": "test_table_000105",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000105__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000002",
+      "scene_id": "test_table_000105",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000105__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000003",
+      "scene_id": "test_table_000105",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000105__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000004",
+      "scene_id": "test_table_000105",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000105__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000005",
+      "scene_id": "test_table_000105",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000105__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000006",
+      "scene_id": "test_table_000105",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000105__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000007",
+      "scene_id": "test_table_000105",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000105__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000008",
+      "scene_id": "test_table_000105",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000105__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000009",
+      "scene_id": "test_table_000105",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000105__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000010",
+      "scene_id": "test_table_000105",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000105__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000011",
+      "scene_id": "test_table_000105",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000105__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000012",
+      "scene_id": "test_table_000105",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000105__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000013",
+      "scene_id": "test_table_000105",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000105__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000014",
+      "scene_id": "test_table_000105",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000105__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000015",
+      "scene_id": "test_table_000105",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000105__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000105__000016",
+      "scene_id": "test_table_000105",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000105__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000000",
+      "scene_id": "test_table_000106",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000106__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000001",
+      "scene_id": "test_table_000106",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000106__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000002",
+      "scene_id": "test_table_000106",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000106__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000003",
+      "scene_id": "test_table_000106",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000106__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000004",
+      "scene_id": "test_table_000106",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000106__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000005",
+      "scene_id": "test_table_000106",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000106__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000006",
+      "scene_id": "test_table_000106",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000106__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000007",
+      "scene_id": "test_table_000106",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000106__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000008",
+      "scene_id": "test_table_000106",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000106__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000009",
+      "scene_id": "test_table_000106",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000106__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000010",
+      "scene_id": "test_table_000106",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000106__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000011",
+      "scene_id": "test_table_000106",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000106__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000012",
+      "scene_id": "test_table_000106",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000106__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000013",
+      "scene_id": "test_table_000106",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000106__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000014",
+      "scene_id": "test_table_000106",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000106__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000015",
+      "scene_id": "test_table_000106",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000106__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000106__000016",
+      "scene_id": "test_table_000106",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000106__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000000",
+      "scene_id": "test_table_000107",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000107__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000001",
+      "scene_id": "test_table_000107",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000107__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000002",
+      "scene_id": "test_table_000107",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000107__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000003",
+      "scene_id": "test_table_000107",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000107__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000004",
+      "scene_id": "test_table_000107",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000107__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000005",
+      "scene_id": "test_table_000107",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000107__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000006",
+      "scene_id": "test_table_000107",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000107__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000007",
+      "scene_id": "test_table_000107",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000107__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000008",
+      "scene_id": "test_table_000107",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000107__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000009",
+      "scene_id": "test_table_000107",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000107__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000010",
+      "scene_id": "test_table_000107",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000107__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000011",
+      "scene_id": "test_table_000107",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000107__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000012",
+      "scene_id": "test_table_000107",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000107__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000013",
+      "scene_id": "test_table_000107",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000107__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000014",
+      "scene_id": "test_table_000107",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000107__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000015",
+      "scene_id": "test_table_000107",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000107__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000107__000016",
+      "scene_id": "test_table_000107",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000107__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000000",
+      "scene_id": "test_table_000108",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000108__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000001",
+      "scene_id": "test_table_000108",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000108__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000002",
+      "scene_id": "test_table_000108",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000108__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000003",
+      "scene_id": "test_table_000108",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000108__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000004",
+      "scene_id": "test_table_000108",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000108__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000005",
+      "scene_id": "test_table_000108",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000108__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000006",
+      "scene_id": "test_table_000108",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000108__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000007",
+      "scene_id": "test_table_000108",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000108__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000008",
+      "scene_id": "test_table_000108",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000108__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000009",
+      "scene_id": "test_table_000108",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000108__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000010",
+      "scene_id": "test_table_000108",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000108__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000011",
+      "scene_id": "test_table_000108",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000108__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000012",
+      "scene_id": "test_table_000108",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000108__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000013",
+      "scene_id": "test_table_000108",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000108__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000014",
+      "scene_id": "test_table_000108",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000108__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000015",
+      "scene_id": "test_table_000108",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000108__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000108__000016",
+      "scene_id": "test_table_000108",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000108__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000000",
+      "scene_id": "test_table_000109",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000109__000000.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000001",
+      "scene_id": "test_table_000109",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000109__000001.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000002",
+      "scene_id": "test_table_000109",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000109__000002.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000003",
+      "scene_id": "test_table_000109",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000109__000003.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000004",
+      "scene_id": "test_table_000109",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000109__000004.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000005",
+      "scene_id": "test_table_000109",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000109__000005.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000006",
+      "scene_id": "test_table_000109",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000109__000006.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000007",
+      "scene_id": "test_table_000109",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000109__000007.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000008",
+      "scene_id": "test_table_000109",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000109__000008.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000009",
+      "scene_id": "test_table_000109",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000109__000009.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000010",
+      "scene_id": "test_table_000109",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000109__000010.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000011",
+      "scene_id": "test_table_000109",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000109__000011.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000012",
+      "scene_id": "test_table_000109",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000109__000012.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000013",
+      "scene_id": "test_table_000109",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000109__000013.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000014",
+      "scene_id": "test_table_000109",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000109__000014.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000015",
+      "scene_id": "test_table_000109",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000109__000015.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000109__000016",
+      "scene_id": "test_table_000109",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000109__000016.json",
+      "object_count": 3
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000000",
+      "scene_id": "test_table_000110",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000110__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000001",
+      "scene_id": "test_table_000110",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000110__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000002",
+      "scene_id": "test_table_000110",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000110__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000003",
+      "scene_id": "test_table_000110",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000110__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000004",
+      "scene_id": "test_table_000110",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000110__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000005",
+      "scene_id": "test_table_000110",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000110__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000006",
+      "scene_id": "test_table_000110",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000110__000006.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000007",
+      "scene_id": "test_table_000110",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000110__000007.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000008",
+      "scene_id": "test_table_000110",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000110__000008.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000009",
+      "scene_id": "test_table_000110",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000110__000009.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000010",
+      "scene_id": "test_table_000110",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000110__000010.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000011",
+      "scene_id": "test_table_000110",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000110__000011.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000012",
+      "scene_id": "test_table_000110",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000110__000012.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000013",
+      "scene_id": "test_table_000110",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000110__000013.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000014",
+      "scene_id": "test_table_000110",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000110__000014.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000015",
+      "scene_id": "test_table_000110",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000110__000015.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000110__000016",
+      "scene_id": "test_table_000110",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000110__000016.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000000",
+      "scene_id": "test_table_000111",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000111__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000001",
+      "scene_id": "test_table_000111",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000111__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000002",
+      "scene_id": "test_table_000111",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000111__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000003",
+      "scene_id": "test_table_000111",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000111__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000004",
+      "scene_id": "test_table_000111",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000111__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000005",
+      "scene_id": "test_table_000111",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000111__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000006",
+      "scene_id": "test_table_000111",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000111__000006.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000007",
+      "scene_id": "test_table_000111",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000111__000007.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000008",
+      "scene_id": "test_table_000111",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000111__000008.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000009",
+      "scene_id": "test_table_000111",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000111__000009.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000010",
+      "scene_id": "test_table_000111",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000111__000010.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000011",
+      "scene_id": "test_table_000111",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000111__000011.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000012",
+      "scene_id": "test_table_000111",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000111__000012.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000013",
+      "scene_id": "test_table_000111",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000111__000013.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000014",
+      "scene_id": "test_table_000111",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000111__000014.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000015",
+      "scene_id": "test_table_000111",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000111__000015.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000111__000016",
+      "scene_id": "test_table_000111",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000111__000016.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000000",
+      "scene_id": "test_table_000112",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000112__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000001",
+      "scene_id": "test_table_000112",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000112__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000002",
+      "scene_id": "test_table_000112",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000112__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000003",
+      "scene_id": "test_table_000112",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000112__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000004",
+      "scene_id": "test_table_000112",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000112__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000005",
+      "scene_id": "test_table_000112",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000112__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000006",
+      "scene_id": "test_table_000112",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000112__000006.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000007",
+      "scene_id": "test_table_000112",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000112__000007.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000008",
+      "scene_id": "test_table_000112",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000112__000008.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000009",
+      "scene_id": "test_table_000112",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000112__000009.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000010",
+      "scene_id": "test_table_000112",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000112__000010.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000011",
+      "scene_id": "test_table_000112",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000112__000011.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000012",
+      "scene_id": "test_table_000112",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000112__000012.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000013",
+      "scene_id": "test_table_000112",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000112__000013.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000014",
+      "scene_id": "test_table_000112",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000112__000014.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000015",
+      "scene_id": "test_table_000112",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000112__000015.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000112__000016",
+      "scene_id": "test_table_000112",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000112__000016.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000000",
+      "scene_id": "test_table_000113",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000113__000000.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000001",
+      "scene_id": "test_table_000113",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000113__000001.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000002",
+      "scene_id": "test_table_000113",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000113__000002.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000003",
+      "scene_id": "test_table_000113",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000113__000003.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000004",
+      "scene_id": "test_table_000113",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000113__000004.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000005",
+      "scene_id": "test_table_000113",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000113__000005.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000006",
+      "scene_id": "test_table_000113",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000113__000006.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000007",
+      "scene_id": "test_table_000113",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000113__000007.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000008",
+      "scene_id": "test_table_000113",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000113__000008.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000009",
+      "scene_id": "test_table_000113",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000113__000009.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000010",
+      "scene_id": "test_table_000113",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000113__000010.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000011",
+      "scene_id": "test_table_000113",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000113__000011.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000012",
+      "scene_id": "test_table_000113",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000113__000012.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000013",
+      "scene_id": "test_table_000113",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000113__000013.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000014",
+      "scene_id": "test_table_000113",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000113__000014.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000015",
+      "scene_id": "test_table_000113",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000113__000015.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000113__000016",
+      "scene_id": "test_table_000113",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000113__000016.json",
+      "object_count": 4
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000000",
+      "scene_id": "test_table_000114",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000114__000000.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000001",
+      "scene_id": "test_table_000114",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000114__000001.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000002",
+      "scene_id": "test_table_000114",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000114__000002.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000003",
+      "scene_id": "test_table_000114",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000114__000003.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000004",
+      "scene_id": "test_table_000114",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000114__000004.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000005",
+      "scene_id": "test_table_000114",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000114__000005.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000006",
+      "scene_id": "test_table_000114",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000114__000006.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000007",
+      "scene_id": "test_table_000114",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000114__000007.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000008",
+      "scene_id": "test_table_000114",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000114__000008.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000009",
+      "scene_id": "test_table_000114",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000114__000009.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000010",
+      "scene_id": "test_table_000114",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000114__000010.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000011",
+      "scene_id": "test_table_000114",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000114__000011.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000012",
+      "scene_id": "test_table_000114",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000114__000012.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000013",
+      "scene_id": "test_table_000114",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000114__000013.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000014",
+      "scene_id": "test_table_000114",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000114__000014.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000015",
+      "scene_id": "test_table_000114",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000114__000015.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000114__000016",
+      "scene_id": "test_table_000114",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000114__000016.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000000",
+      "scene_id": "test_table_000115",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000115__000000.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000001",
+      "scene_id": "test_table_000115",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000115__000001.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000002",
+      "scene_id": "test_table_000115",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000115__000002.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000003",
+      "scene_id": "test_table_000115",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000115__000003.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000004",
+      "scene_id": "test_table_000115",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000115__000004.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000005",
+      "scene_id": "test_table_000115",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000115__000005.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000006",
+      "scene_id": "test_table_000115",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000115__000006.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000007",
+      "scene_id": "test_table_000115",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000115__000007.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000008",
+      "scene_id": "test_table_000115",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000115__000008.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000009",
+      "scene_id": "test_table_000115",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000115__000009.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000010",
+      "scene_id": "test_table_000115",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000115__000010.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000011",
+      "scene_id": "test_table_000115",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000115__000011.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000012",
+      "scene_id": "test_table_000115",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000115__000012.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000013",
+      "scene_id": "test_table_000115",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000115__000013.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000014",
+      "scene_id": "test_table_000115",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000115__000014.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000015",
+      "scene_id": "test_table_000115",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000115__000015.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000115__000016",
+      "scene_id": "test_table_000115",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000115__000016.json",
+      "object_count": 8
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000000",
+      "scene_id": "test_table_000116",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000116__000000.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000001",
+      "scene_id": "test_table_000116",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000116__000001.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000002",
+      "scene_id": "test_table_000116",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000116__000002.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000003",
+      "scene_id": "test_table_000116",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000116__000003.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000004",
+      "scene_id": "test_table_000116",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000116__000004.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000005",
+      "scene_id": "test_table_000116",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000116__000005.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000006",
+      "scene_id": "test_table_000116",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000116__000006.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000007",
+      "scene_id": "test_table_000116",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000116__000007.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000008",
+      "scene_id": "test_table_000116",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000116__000008.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000009",
+      "scene_id": "test_table_000116",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000116__000009.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000010",
+      "scene_id": "test_table_000116",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000116__000010.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000011",
+      "scene_id": "test_table_000116",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000116__000011.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000012",
+      "scene_id": "test_table_000116",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000116__000012.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000013",
+      "scene_id": "test_table_000116",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000116__000013.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000014",
+      "scene_id": "test_table_000116",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000116__000014.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000015",
+      "scene_id": "test_table_000116",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000116__000015.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000116__000016",
+      "scene_id": "test_table_000116",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000116__000016.json",
+      "object_count": 7
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000000",
+      "scene_id": "test_table_000117",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000117__000000.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000001",
+      "scene_id": "test_table_000117",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000117__000001.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000002",
+      "scene_id": "test_table_000117",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000117__000002.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000003",
+      "scene_id": "test_table_000117",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000117__000003.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000004",
+      "scene_id": "test_table_000117",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000117__000004.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000005",
+      "scene_id": "test_table_000117",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000117__000005.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000006",
+      "scene_id": "test_table_000117",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000117__000006.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000007",
+      "scene_id": "test_table_000117",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000117__000007.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000008",
+      "scene_id": "test_table_000117",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000117__000008.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000009",
+      "scene_id": "test_table_000117",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000117__000009.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000010",
+      "scene_id": "test_table_000117",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000117__000010.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000011",
+      "scene_id": "test_table_000117",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000117__000011.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000012",
+      "scene_id": "test_table_000117",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000117__000012.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000013",
+      "scene_id": "test_table_000117",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000117__000013.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000014",
+      "scene_id": "test_table_000117",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000117__000014.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000015",
+      "scene_id": "test_table_000117",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000117__000015.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000117__000016",
+      "scene_id": "test_table_000117",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000117__000016.json",
+      "object_count": 11
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000000",
+      "scene_id": "test_table_000118",
+      "frame_id": "000000",
+      "sample_path": "samples/dopose__test_table_000118__000000.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000001",
+      "scene_id": "test_table_000118",
+      "frame_id": "000001",
+      "sample_path": "samples/dopose__test_table_000118__000001.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000002",
+      "scene_id": "test_table_000118",
+      "frame_id": "000002",
+      "sample_path": "samples/dopose__test_table_000118__000002.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000003",
+      "scene_id": "test_table_000118",
+      "frame_id": "000003",
+      "sample_path": "samples/dopose__test_table_000118__000003.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000004",
+      "scene_id": "test_table_000118",
+      "frame_id": "000004",
+      "sample_path": "samples/dopose__test_table_000118__000004.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000005",
+      "scene_id": "test_table_000118",
+      "frame_id": "000005",
+      "sample_path": "samples/dopose__test_table_000118__000005.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000006",
+      "scene_id": "test_table_000118",
+      "frame_id": "000006",
+      "sample_path": "samples/dopose__test_table_000118__000006.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000007",
+      "scene_id": "test_table_000118",
+      "frame_id": "000007",
+      "sample_path": "samples/dopose__test_table_000118__000007.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000008",
+      "scene_id": "test_table_000118",
+      "frame_id": "000008",
+      "sample_path": "samples/dopose__test_table_000118__000008.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000009",
+      "scene_id": "test_table_000118",
+      "frame_id": "000009",
+      "sample_path": "samples/dopose__test_table_000118__000009.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000010",
+      "scene_id": "test_table_000118",
+      "frame_id": "000010",
+      "sample_path": "samples/dopose__test_table_000118__000010.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000011",
+      "scene_id": "test_table_000118",
+      "frame_id": "000011",
+      "sample_path": "samples/dopose__test_table_000118__000011.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000012",
+      "scene_id": "test_table_000118",
+      "frame_id": "000012",
+      "sample_path": "samples/dopose__test_table_000118__000012.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000013",
+      "scene_id": "test_table_000118",
+      "frame_id": "000013",
+      "sample_path": "samples/dopose__test_table_000118__000013.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000014",
+      "scene_id": "test_table_000118",
+      "frame_id": "000014",
+      "sample_path": "samples/dopose__test_table_000118__000014.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000015",
+      "scene_id": "test_table_000118",
+      "frame_id": "000015",
+      "sample_path": "samples/dopose__test_table_000118__000015.json",
+      "object_count": 9
+    },
+    {
+      "sample_id": "dopose__test_table_000118__000016",
+      "scene_id": "test_table_000118",
+      "frame_id": "000016",
+      "sample_path": "samples/dopose__test_table_000118__000016.json",
+      "object_count": 9
+    }
+  ],
+  "preprocess": {
+    "point_cloud_stride": 2,
+    "point_count": 50000,
+    "voxel_point_cloud_size_cm": 1.0,
+    "depth_window_cm": 50.0,
+    "depth_scale_source": "scene_camera.depth_scale",
+    "camera_to_world": "zivid_optical_frame_to_scene_link_then_support_surface_z_up",
+    "coordinate_normalization_method": "support_surface_ransac_to_world_z",
+    "support_plane_ransac": {
+      "distance_thresh_cm": 1.0,
+      "num_iters": 512,
+      "min_inlier_count": 500,
+      "min_inlier_ratio": 0.03,
+      "max_points": 50000
+    }
+  }
+}
